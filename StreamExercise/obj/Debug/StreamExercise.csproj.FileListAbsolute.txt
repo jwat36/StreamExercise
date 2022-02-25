@@ -1,0 +1,8 @@
+C:\Users\JD\OneDrive - Saint Martin's University\Classes\CSC205\StreamExercise\StreamExercise\bin\Debug\StreamExercise.exe.config
+C:\Users\JD\OneDrive - Saint Martin's University\Classes\CSC205\StreamExercise\StreamExercise\bin\Debug\StreamExercise.exe
+C:\Users\JD\OneDrive - Saint Martin's University\Classes\CSC205\StreamExercise\StreamExercise\bin\Debug\StreamExercise.pdb
+C:\Users\JD\OneDrive - Saint Martin's University\Classes\CSC205\StreamExercise\StreamExercise\obj\Debug\StreamExercise.csproj.AssemblyReference.cache
+C:\Users\JD\OneDrive - Saint Martin's University\Classes\CSC205\StreamExercise\StreamExercise\obj\Debug\StreamExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\JD\OneDrive - Saint Martin's University\Classes\CSC205\StreamExercise\StreamExercise\obj\Debug\StreamExercise.csproj.CoreCompileInputs.cache
+C:\Users\JD\OneDrive - Saint Martin's University\Classes\CSC205\StreamExercise\StreamExercise\obj\Debug\StreamExercise.exe
+C:\Users\JD\OneDrive - Saint Martin's University\Classes\CSC205\StreamExercise\StreamExercise\obj\Debug\StreamExercise.pdb

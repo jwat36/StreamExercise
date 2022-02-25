@@ -1,0 +1,5 @@
+This is a test text file
+The purpose of this file is to test the StreamReader object
+There are five lines in this file
+The output should include a number next to each output line
+The end
